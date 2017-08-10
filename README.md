@@ -3,7 +3,7 @@
 
 
 
-**Data Analysis using Python : Manipulate and Gain Insight from Data**
+**Data Analysis using Pandas : Manipulate and Gain Insight from Data**
 
 
 
